@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=leomakinol&style=flat-square&logo=appveyor&color=971901)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/leomakino/?style=flat-square&color=971901)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/leomakino/?style=flat-square&color=971901)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/leomakino/?style=flat-square&color=971901)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/leomakino/leomakino/?style=flat-square&color=971901)](https://badges.pufler.dev)
 <!--
 **leomakino/leomakino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
