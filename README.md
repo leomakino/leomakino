@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Years Badge](https://badges.pufler.dev/years/leomakino/?style=flat-square&color=971901)](https://badges.pufler.dev)
 <!--
 **leomakino/leomakino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
