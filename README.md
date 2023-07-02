@@ -13,18 +13,18 @@ I graduated in Control and Automation Engineering from the Federal University of
 I'm currently working as a data engineer at 3CON since September 2022.
 
 ---
-## CORE COMPETENCE
-### **Languages** <br><br>
+## CORE COMPETENCE <br><br>
+### **Languages**
 
 Native Portuguese | Professional Working English | Professional Working Spanish
 
-### **Personal skills** <br><br>
+### **Personal skills**
 Lifelong learner | patient | full of determination
 
-### **Programming Languages** <br><br>
+### **Programming Languages**
 Airflow | PL SQL | Python | Bash | LaTeX | HTML | CSS | Java
 
-### **Cloud Services** <br><br>
+### **Cloud Services**
 S3 and Cloud Storage | Snowflake and BigQuery | Cloud function | Composer | AWS IAM
 
 
